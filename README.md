@@ -1,7 +1,8 @@
 # Hello there 👋
 
 I am Nicolas Petithory, a wannabe web developer 😄, currently learning code in a formation provided by Webforce3.
-
+-
+-
 
 
 ### 🌱 What do I do and What have I done?<br>
