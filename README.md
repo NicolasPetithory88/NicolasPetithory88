@@ -1,16 +1,36 @@
-### Hi there 👋
+# Hello there 👋
 
-<!--
-**NicolasPetithory88/NicolasPetithory88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Nicolas Petithory, a wannabe web developper 😄, currently learning code in a formation provided by Webforce3.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 What do I do and What have I done?
+
+- 2022: Student at Webforce3 Compiègne in web developpement and mobile developpement
+- 2020-2021: CRM manager for Prisma Média
+- 2013-2019: Math home teacher for Acadomia Compiègne
+
+
+### 🔭 Ongoing projects : 
+
+- Website for Massage-confort@Compiègne.fr (in progress)
+- Personal portfolio
+- Photo gallery website 
+
+
+### ⚡ Languages :
+
+- mastered : HTML, CSS
+- good level : JS, PHP, Bootstrap, Wordpress
+- average level/still learning : ReactJS, NodeJS 
+- learning soon : Symphony, Python, Angular
+
+
+### 📫 How to reach me: 
+
+- [LinkedIn](www.linkedin.com/in/nicolas-petithory/)
+- [Twitter](https://twitter.com/NPetithory) 
+- My personal portfolio (coming soon) 
+
+Don't hesitate to ask me anything, I am eager to learn more and looking forward to become a respected and productive developper ! 😄
+
+
