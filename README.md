@@ -1,4 +1,4 @@
-# Hello there 👋<br>
+# Hello there 👋
 
 I am Nicolas Petithory, a wannabe web developer 😄, currently learning code in a formation provided by Webforce3.
 
