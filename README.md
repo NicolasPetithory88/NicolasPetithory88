@@ -3,6 +3,7 @@
 I am Nicolas Petithory, a wannabe web developer 😄, currently learning code in a formation provided by Webforce3.
 
 
+
 ### 🌱 What do I do and What have I done?
 
 - 2022: Student at Webforce3 Compiègne in web development and mobile development
