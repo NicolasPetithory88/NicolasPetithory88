@@ -1,27 +1,24 @@
 # Hello there 👋
+***
+I am Nicolas Petithory, a wannabe web developer 😄, currently learning code in a formation provided by Webforce3.
 
-I am Nicolas Petithory, a wannabe web developer 😄, currently learning code in a formation provided by Webforce3.<br>
 
 
-
-### 🌱 What do I do and What have I done?
-
+### 🌱 What do I do and What have I done?<br>
 
 - 2022: Student at Webforce3 Compiègne in web development and mobile development
 - 2020-2021: CRM manager for Prisma Média
 - 2013-2019: Math home teacher for Acadomia Compiègne
 
 
-### 🔭 Ongoing projects : 
-
+### 🔭 Ongoing projects :<br> 
 
 - Website for Massage-confort@Compiègne.fr (in progress)
 - Personal portfolio
 - Photo gallery website 
 
 
-### ⚡ Languages :
-
+### ⚡ Languages :<br>
 
 - mastered: HTML, CSS
 - good level: JS, PHP, Bootstrap, Wordpress
@@ -29,8 +26,7 @@ I am Nicolas Petithory, a wannabe web developer 😄, currently learning code in
 - learning soon: Symphony, Python, Angular
 
 
-### 📫 How to reach me: 
-
+### 📫 How to reach me:<br> 
 
 - [LinkedIn](www.linkedin.com/in/nicolas-petithory/)
 - [Twitter](https://twitter.com/NPetithory) 
