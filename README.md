@@ -28,7 +28,7 @@ I am Nicolas Petithory, a wannabe web developer 😄, currently learning code in
 
 ### 📫 How to reach me:<br> 
 
-- [LinkedIn](www.linkedin.com/in/nicolas-petithory/)
+- [LinkedIn](https://www.linkedin.com/in/nicolas-petithory/)
 - [Twitter](https://twitter.com/NPetithory) 
 - My personal portfolio (coming soon) 
 
