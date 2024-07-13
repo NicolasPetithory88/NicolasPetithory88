@@ -13,17 +13,16 @@ I am Nicolas Petithory, a wannabe web developer 😄, currently learning code in
 
 ### 🔭 Ongoing projects :<br> 
 
-- Website for Massage-confort@Compiègne.fr (in progress)
-- Personal portfolio
-- Photo gallery website 
+- Personal portfolio (ongoing)
+- [Photo gallery website](https://lesvoyagesdephilippe.site/)
+- -various tutorials projects
 
 
 ### ⚡ Languages :<br>
 
 - mastered: HTML, CSS
 - good level: JS, PHP, Bootstrap, Wordpress
-- average level/still learning : ReactJS, NodeJS 
-- learning soon: Symphony, Python, Angular
+- average level/still learning : ReactJS, NodeJS, RubyOnRails, Ruby, Symphony 
 
 
 ### 📫 How to reach me:<br> 
